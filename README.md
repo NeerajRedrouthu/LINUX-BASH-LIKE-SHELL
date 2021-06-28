@@ -1,6 +1,7 @@
 # LINUX-BASH-LIKE-SHELL
-It was in Advanced Operating Systems class. We were asked to create our own bash shell with some built-in bash commands  and additional commands specified by the professor. It was a month long project, though arduous I enjoyed it mainly  because everything worked as expected.
+In Advanced Operating Systems class, we were asked to create our own bash shell with some built-in bash commands and additional commands specified by our professor. 
 
+Task:
 Write a C/C++/Python program that implements your own shell.  It should print a
 prompt which is the concatenation of your login id and the char string
 "_sh> " (note the blank at the end). So, mine for example would be
